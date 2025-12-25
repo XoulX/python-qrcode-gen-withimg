@@ -7,5 +7,5 @@ As the project title suggest, this code allows you to generate QR code with an i
 The following packages are required to be installed
 
 ```bash
-pip pillow pyqrcode
+pip install pillow pyqrcode
 ```
